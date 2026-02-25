@@ -1,0 +1,24 @@
+.banner {
+    background-color: black;
+    background-image: url(./img/Cup\ of\ coffee\ on\ dark\ background\ Aesthetic\ photo\ of\ coffee\ International\ coffee\ day\ _\ Premium\ AI-gen.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+ .footer {
+    background-color: #595959;
+ }
+
+ .footer .social-icon {
+    font-size: 1.7rem;
+    color: #fff;
+    transition: .3s;
+ }
+
+
+ .footer .social-icon:hover {
+    color: #ffc107;
+ }
